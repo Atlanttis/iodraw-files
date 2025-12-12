@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="zCA0tI7lUt17rDIsJpG-">
-    <mxGraphModel dx="1296" dy="661" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2123" dy="661" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="650" width="560" height="210" as="geometry" />
+          <mxGeometry x="-100" y="690" width="560" height="210" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9-Tru1cQJQxDTtGrqQA9-1" target="9-Tru1cQJQxDTtGrqQA9-2">
           <mxGeometry relative="1" as="geometry" />
@@ -81,29 +81,8 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-41" value="对照实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="582" y="545" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-42" value="问卷调查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="750" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-43" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;响应时间&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="690" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-44" value="准确率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="690" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-45" value="眼动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="810" width="61.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-46" value="心率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="810" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-47" value="脉搏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="813.5" y="810" width="56.5" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-49" value="预实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="390" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-51" value="实验采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="690" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-53" value="正常视觉组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="723.5" y="545" width="120" height="40" as="geometry" />
@@ -120,9 +99,6 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-57" value="实&lt;div&gt;验&lt;/div&gt;&lt;div&gt;开&lt;/div&gt;&lt;div&gt;展&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="530" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-59" value="生理数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="810" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-61" value="eHMI指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="440" width="120" height="40" as="geometry" />
         </mxCell>
@@ -135,32 +111,59 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-65" value="形状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-66" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=12.47;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="822.5" width="20" height="15" as="geometry" />
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-83" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="580" y="690" width="390" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-70" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.22569701984437934;" vertex="1" parent="1">
-          <mxGeometry x="790" y="820" width="18.5" height="20" as="geometry" />
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-42" value="问卷调查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry y="60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-76" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.22569701984437934;" vertex="1" parent="1">
-          <mxGeometry x="880" y="820" width="18.5" height="20" as="geometry" />
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-43" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;响应时间&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="140" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-77" value="个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="750" width="110" height="40" as="geometry" />
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-44" value="准确率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="290" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-78" value="心理数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="750" width="100" height="40" as="geometry" />
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-45" value="眼动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="140" y="120" width="61.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-79" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.22569701984437934;" vertex="1" parent="1">
-          <mxGeometry x="840" y="700" width="18.5" height="20" as="geometry" />
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-46" value="心率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="330" y="120" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-80" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.22569701984437934;" vertex="1" parent="1">
-          <mxGeometry x="840" y="760" width="18.5" height="20" as="geometry" />
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-47" value="脉搏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="233.5" y="120" width="56.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-81" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=12.47;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="765" width="20" height="15" as="geometry" />
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-51" value="实验采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-82" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=12.47;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="704" width="20" height="15" as="geometry" />
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-59" value="生理数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-66" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=12.47;notch=0;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="120" y="132.5" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-70" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.22569701984437934;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="210" y="130" width="18.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-76" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.22569701984437934;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="300" y="130" width="18.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-77" value="个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="140" y="60" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-78" value="心理数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="290" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-79" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.22569701984437934;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="260" y="10" width="18.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-80" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.22569701984437934;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="260" y="70" width="18.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-81" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=12.47;notch=0;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="120" y="75" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-82" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=12.47;notch=0;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
+          <mxGeometry x="120" y="14" width="20" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
