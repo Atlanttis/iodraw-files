@@ -67,7 +67,7 @@
           <mxGeometry x="707" y="250" width="293" height="35" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-28" value="" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="390" width="555" height="340" as="geometry" />
+          <mxGeometry x="485" y="390" width="555" height="260" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-30" value="研究现状总结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="300" width="470" height="40" as="geometry" />
@@ -84,7 +84,7 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-41" value="对照实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="582" y="545" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-42" value="问卷调查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-43" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;响应时间&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -109,7 +109,7 @@
           <mxGeometry x="870" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-51" value="实验采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="580" y="710" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-53" value="正常视觉组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="723.5" y="545" width="120" height="40" as="geometry" />
@@ -121,7 +121,7 @@
           <mxGeometry x="500" y="390" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-56" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="730" width="50" height="120" as="geometry" />
+          <mxGeometry x="510" y="710" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-57" value="实&lt;div&gt;验&lt;/div&gt;&lt;div&gt;开&lt;/div&gt;&lt;div&gt;展&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="530" width="50" height="110" as="geometry" />
