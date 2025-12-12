@@ -147,6 +147,9 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-77" value="个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="750" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-78" value="心理数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="750" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
