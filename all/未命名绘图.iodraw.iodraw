@@ -30,11 +30,6 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-6" value="" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="80" width="505" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="9-Tru1cQJQxDTtGrqQA9-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="745" y="150" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-9" value="研究背景及意义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="100" width="430" height="40" as="geometry" />
         </mxCell>
@@ -72,7 +67,7 @@
           <mxGeometry x="707" y="250" width="293" height="35" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-28" value="" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="375" width="555" height="205" as="geometry" />
+          <mxGeometry x="500" y="380" width="555" height="205" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-30" value="研究现状总结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="300" width="430" height="40" as="geometry" />
