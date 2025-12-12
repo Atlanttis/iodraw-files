@@ -88,10 +88,10 @@
           <mxGeometry x="1020" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-43" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;响应时间&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="592" y="695" width="110" height="40" as="geometry" />
+          <mxGeometry x="670" y="695" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-44" value="准确率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="723.5" y="690" width="113" height="40" as="geometry" />
+          <mxGeometry x="817" y="695" width="113" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-45" value="眼动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="597" y="750" width="110" height="40" as="geometry" />
@@ -112,10 +112,10 @@
           <mxGeometry x="160" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-53" value="正常视觉组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="545" width="120" height="40" as="geometry" />
+          <mxGeometry x="723.5" y="545" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-54" value="色觉障碍组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="720" width="120" height="40" as="geometry" />
+          <mxGeometry x="730" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-55" value="前&lt;div&gt;期&lt;/div&gt;&lt;div&gt;准&lt;/div&gt;&lt;div&gt;备&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="390" width="50" height="110" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry x="500" y="660" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-57" value="实&lt;div&gt;验&lt;/div&gt;&lt;div&gt;开&lt;/div&gt;&lt;div&gt;展&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="510" width="50" height="110" as="geometry" />
+          <mxGeometry x="500" y="530" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
