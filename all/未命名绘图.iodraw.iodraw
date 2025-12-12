@@ -70,7 +70,7 @@
           <mxGeometry x="490" y="380" width="555" height="410" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-30" value="研究现状总结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="300" width="430" height="40" as="geometry" />
+          <mxGeometry x="540" y="300" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-33" value="虚拟场景搭建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="390" width="120" height="40" as="geometry" />
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-56" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="610" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-57" value="前&lt;div&gt;期&lt;/div&gt;&lt;div&gt;准&lt;/div&gt;&lt;div&gt;备&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="50" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
