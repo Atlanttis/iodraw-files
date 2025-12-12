@@ -67,7 +67,7 @@
           <mxGeometry x="707" y="250" width="293" height="35" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-28" value="" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="380" width="555" height="410" as="geometry" />
+          <mxGeometry x="493" y="390" width="555" height="480" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-30" value="研究现状总结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="300" width="470" height="40" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="700" y="670" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="805" width="590" height="235" as="geometry" />
+          <mxGeometry x="450" y="880" width="590" height="235" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-49" value="问卷调查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="390" width="120" height="40" as="geometry" />
