@@ -165,6 +165,18 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-82" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=12.47;notch=0;" vertex="1" parent="9-Tru1cQJQxDTtGrqQA9-83">
           <mxGeometry x="120" y="14" width="20" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-84" value="颜色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-85" value="颜色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-86" value="颜色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-87" value="颜色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
