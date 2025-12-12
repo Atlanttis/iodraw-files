@@ -182,6 +182,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9-Tru1cQJQxDTtGrqQA9-86" target="9-Tru1cQJQxDTtGrqQA9-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="925" y="570" />
+              <mxPoint x="950" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-86" value="&lt;span style=&quot;font-size: 10.5pt;&quot; lang=&quot;EN-US&quot;&gt;eHMI &lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;指令影响要素&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="520" width="170" height="40" as="geometry" />
         </mxCell>
