@@ -23,7 +23,7 @@
           <mxGeometry x="350" y="540" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-6" value="" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="90" width="500" height="270" as="geometry" />
+          <mxGeometry x="505" y="90" width="500" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9-Tru1cQJQxDTtGrqQA9-9" target="9-Tru1cQJQxDTtGrqQA9-13">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-13" value="文献综述" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="679" y="185" width="120" height="35" as="geometry" />
+          <mxGeometry x="530" y="180" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-15" value="文献综述" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="230" width="120" height="40" as="geometry" />
