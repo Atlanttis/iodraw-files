@@ -40,11 +40,20 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9-Tru1cQJQxDTtGrqQA9-13" target="9-Tru1cQJQxDTtGrqQA9-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9-Tru1cQJQxDTtGrqQA9-13" target="9-Tru1cQJQxDTtGrqQA9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9-Tru1cQJQxDTtGrqQA9-13" target="9-Tru1cQJQxDTtGrqQA9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9-Tru1cQJQxDTtGrqQA9-13" target="9-Tru1cQJQxDTtGrqQA9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-13" value="文献综述" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="185" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-15" value="文献综述" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="260" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
