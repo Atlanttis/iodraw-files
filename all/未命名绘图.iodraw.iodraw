@@ -30,6 +30,9 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-6" value="" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="80" width="505" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9-Tru1cQJQxDTtGrqQA9-9" target="9-Tru1cQJQxDTtGrqQA9-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-9" value="研究背景及意义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="100" width="430" height="40" as="geometry" />
         </mxCell>
