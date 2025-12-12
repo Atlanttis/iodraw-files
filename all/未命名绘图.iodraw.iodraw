@@ -108,7 +108,7 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-63" value="亮度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-65" value="形状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-65" value="&lt;font face=&quot;Helvetica&quot;&gt;形状&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-83" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -172,7 +172,7 @@
           <mxGeometry x="40" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-86" value="&lt;span style=&quot;font-size: 10.5pt;&quot; lang=&quot;EN-US&quot;&gt;eHMI &lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;指令关键要素&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="800" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-87" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;色觉障碍人群的视觉感知机制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="450" width="120" height="40" as="geometry" />
