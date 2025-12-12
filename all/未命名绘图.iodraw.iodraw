@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="670" width="560" height="210" as="geometry" />
+        </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9-Tru1cQJQxDTtGrqQA9-1" target="9-Tru1cQJQxDTtGrqQA9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -95,9 +98,6 @@
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-47" value="脉搏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="813.5" y="810" width="56.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="670" width="590" height="235" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-49" value="预实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="390" width="120" height="40" as="geometry" />
