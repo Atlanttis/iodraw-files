@@ -97,10 +97,10 @@
           <mxGeometry x="570" y="570" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-44" value="准确率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="584.5" width="110" height="45.5" as="geometry" />
+          <mxGeometry x="717" y="570" width="113" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-45" value="眼动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="670" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-46" value="心率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="837.5" y="670" width="120" height="60" as="geometry" />
