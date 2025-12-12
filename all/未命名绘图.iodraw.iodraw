@@ -166,7 +166,7 @@
           <mxGeometry x="120" y="14" width="20" height="15" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-84" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;色觉障碍人群对自动驾驶&lt;/span&gt;&lt;span style=&quot;font-size:&lt;br/&gt;10.5pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&lt;br/&gt;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;eHMI&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;指令的感知与响应特性&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="360" width="430" height="40" as="geometry" />
+          <mxGeometry x="580" y="390" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-85" value="颜色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="210" width="120" height="40" as="geometry" />
@@ -174,7 +174,7 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-86" value="颜色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-87" value="颜色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-87" value="&#xa;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&#xa;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&#xa;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&#xa;&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;色觉障碍人群的视觉感知机制&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="490" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
