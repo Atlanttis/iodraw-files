@@ -7,8 +7,10 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9-Tru1cQJQxDTtGrqQA9-1" target="9-Tru1cQJQxDTtGrqQA9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9-Tru1cQJQxDTtGrqQA9-1" target="9-Tru1cQJQxDTtGrqQA9-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="9-Tru1cQJQxDTtGrqQA9-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="215" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-1" value="研&lt;div&gt;究&lt;/div&gt;&lt;div&gt;概&lt;/div&gt;&lt;div&gt;述&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="160" width="50" height="110" as="geometry" />
