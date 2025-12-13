@@ -25,6 +25,14 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-6" value="" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="80" width="580" height="310" as="geometry" />
         </mxCell>
+        <mxCell id="Vk5tKjFLAIekuIL0GwJ5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9-Tru1cQJQxDTtGrqQA9-9" target="9-Tru1cQJQxDTtGrqQA9-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="150" />
+              <mxPoint x="565" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-9" value="研究背景及意义" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="100" width="520" height="40" as="geometry" />
         </mxCell>
@@ -271,7 +279,7 @@
           <mxGeometry x="760" y="60" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vk5tKjFLAIekuIL0GwJ5-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=20.1;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="280" width="70" height="30" as="geometry" />
+          <mxGeometry x="460" y="110" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
