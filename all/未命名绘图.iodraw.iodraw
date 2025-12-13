@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Vk5tKjFLAIekuIL0GwJ5-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1060" width="580" height="120" as="geometry" />
+          <mxGeometry x="500" y="1060" width="580" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vk5tKjFLAIekuIL0GwJ5-11" value="" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="650" width="580" height="190" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="400" y="430" width="50" height="600" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-4" value="结&lt;div&gt;论&lt;/div&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;建&lt;/div&gt;&lt;div&gt;议&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1060" width="50" height="120" as="geometry" />
+          <mxGeometry x="400" y="1060" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-6" value="" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="80" width="580" height="310" as="geometry" />
@@ -256,10 +256,10 @@
           <mxGeometry x="50" width="20" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Vk5tKjFLAIekuIL0GwJ5-14" value="研究展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1090" width="120" height="50" as="geometry" />
+          <mxGeometry x="930" y="1100" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vk5tKjFLAIekuIL0GwJ5-15" value="对策建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1100" width="120" height="50" as="geometry" />
+          <mxGeometry x="730" y="1100" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vk5tKjFLAIekuIL0GwJ5-16" value="研究结论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="1100" width="120" height="50" as="geometry" />
