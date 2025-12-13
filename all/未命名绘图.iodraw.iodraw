@@ -173,10 +173,10 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;颜色&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Vk5tKjFLAIekuIL0GwJ5-7" vertex="1">
           <mxGeometry y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-63" value="亮度" style="rounded=0;whiteSpace=wrap;html=1;" parent="Vk5tKjFLAIekuIL0GwJ5-7" vertex="1">
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-63" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;亮度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Vk5tKjFLAIekuIL0GwJ5-7" vertex="1">
           <mxGeometry x="149.99999999999997" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-65" value="&lt;font face=&quot;Helvetica&quot;&gt;形状&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Vk5tKjFLAIekuIL0GwJ5-7" vertex="1">
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-65" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;形状&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Vk5tKjFLAIekuIL0GwJ5-7" vertex="1">
           <mxGeometry x="309.99999999999994" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Vk5tKjFLAIekuIL0GwJ5-7" source="9-Tru1cQJQxDTtGrqQA9-84" target="9-Tru1cQJQxDTtGrqQA9-87" edge="1">
