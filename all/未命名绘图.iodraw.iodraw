@@ -270,8 +270,8 @@
         <mxCell id="Vk5tKjFLAIekuIL0GwJ5-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.7;dx=8.23;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="60" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vk5tKjFLAIekuIL0GwJ5-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="280" width="100" height="70" as="geometry" />
+        <mxCell id="Vk5tKjFLAIekuIL0GwJ5-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=20.1;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
