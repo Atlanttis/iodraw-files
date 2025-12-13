@@ -243,6 +243,9 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-87" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;色觉障碍人群的视觉感知机制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Vk5tKjFLAIekuIL0GwJ5-7" vertex="1">
           <mxGeometry y="80" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Vk5tKjFLAIekuIL0GwJ5-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="590" y="450" width="20" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
