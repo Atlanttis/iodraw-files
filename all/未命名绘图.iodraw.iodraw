@@ -259,7 +259,7 @@
           <mxGeometry x="730" y="1060" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vk5tKjFLAIekuIL0GwJ5-16" value="研究结论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1060" width="120" height="50" as="geometry" />
+          <mxGeometry x="530" y="1050" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vk5tKjFLAIekuIL0GwJ5-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.7;dx=8.23;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="390" width="30" height="20" as="geometry" />
