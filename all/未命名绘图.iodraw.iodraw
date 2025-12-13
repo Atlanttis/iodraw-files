@@ -68,7 +68,7 @@
           <mxGeometry x="590" y="680" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-41" value="对照实验" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="750" width="130" height="40" as="geometry" />
+          <mxGeometry x="720" y="740" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-49" value="预实验" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="680" width="180" height="40" as="geometry" />
