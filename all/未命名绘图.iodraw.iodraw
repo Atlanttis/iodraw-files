@@ -59,7 +59,7 @@
           <mxGeometry x="680" y="260" width="330" height="35" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-28" value="" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="420" width="575" height="240" as="geometry" />
+          <mxGeometry x="500" y="420" width="550" height="240" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-30" value="研究现状总结" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="330" width="480" height="40" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry x="840" y="810" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-55" value="理&lt;div&gt;论&lt;/div&gt;&lt;div&gt;框&lt;/div&gt;&lt;div&gt;架&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="440" width="50" height="190" as="geometry" />
+          <mxGeometry x="530" y="440" width="50" height="190" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-57" value="实&lt;div&gt;验&lt;/div&gt;&lt;div&gt;开&lt;/div&gt;&lt;div&gt;展&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="680" width="50" height="170" as="geometry" />
@@ -193,7 +193,7 @@
           <mxGeometry x="560" y="440" width="20" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Vk5tKjFLAIekuIL0GwJ5-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="590" y="440" width="430" height="190" as="geometry" />
+          <mxGeometry x="620" y="440" width="430" height="190" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-62" value="颜色" style="rounded=0;whiteSpace=wrap;html=1;" parent="Vk5tKjFLAIekuIL0GwJ5-7" vertex="1">
           <mxGeometry y="150" width="120" height="40" as="geometry" />
