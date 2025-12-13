@@ -29,7 +29,7 @@
           <mxGeometry x="530" y="100" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-10" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:14.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;色觉障碍对自动驾驶&lt;/span&gt;&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif&quot; lang=&quot;EN-US&quot;&gt;eHMI&lt;/span&gt;&lt;span style=&quot;font-size:14.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;&quot;&gt;指令响应的影响&lt;/span&gt;&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="10" width="440" height="40" as="geometry" />
+          <mxGeometry x="550" y="20" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9-Tru1cQJQxDTtGrqQA9-13" target="9-Tru1cQJQxDTtGrqQA9-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -271,7 +271,7 @@
           <mxGeometry x="160" y="840" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vk5tKjFLAIekuIL0GwJ5-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.7;dx=8.23;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="850" width="30" height="20" as="geometry" />
+          <mxGeometry x="760" y="60" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
