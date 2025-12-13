@@ -20,7 +20,7 @@
           <mxGeometry x="400" y="870" width="50" height="230" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-6" value="" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="80" width="550" height="310" as="geometry" />
+          <mxGeometry x="500" y="80" width="580" height="310" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-9" value="研究背景及意义" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="100" width="480" height="40" as="geometry" />
@@ -193,16 +193,16 @@
           <mxGeometry x="580" y="440" width="20" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Vk5tKjFLAIekuIL0GwJ5-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="620" y="440" width="410" height="190" as="geometry" />
+          <mxGeometry x="620" y="440" width="430" height="190" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-62" value="颜色" style="rounded=0;whiteSpace=wrap;html=1;" parent="Vk5tKjFLAIekuIL0GwJ5-7" vertex="1">
-          <mxGeometry y="150" width="114.4186046511628" height="40" as="geometry" />
+          <mxGeometry y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-63" value="亮度" style="rounded=0;whiteSpace=wrap;html=1;" parent="Vk5tKjFLAIekuIL0GwJ5-7" vertex="1">
-          <mxGeometry x="143.02325581395348" y="150" width="114.4186046511628" height="40" as="geometry" />
+          <mxGeometry x="149.99999999999997" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-65" value="&lt;font face=&quot;Helvetica&quot;&gt;形状&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Vk5tKjFLAIekuIL0GwJ5-7" vertex="1">
-          <mxGeometry x="295.5813953488372" y="150" width="114.4186046511628" height="40" as="geometry" />
+          <mxGeometry x="309.99999999999994" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Vk5tKjFLAIekuIL0GwJ5-7" source="9-Tru1cQJQxDTtGrqQA9-84" target="9-Tru1cQJQxDTtGrqQA9-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -211,37 +211,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-84" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;色觉障碍人群对自动驾驶&lt;/span&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;eHMI&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;指令的感知与响应特性&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Vk5tKjFLAIekuIL0GwJ5-7" vertex="1">
-          <mxGeometry width="410" height="40" as="geometry" />
+          <mxGeometry width="429.99999999999994" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Vk5tKjFLAIekuIL0GwJ5-7" source="9-Tru1cQJQxDTtGrqQA9-86" target="9-Tru1cQJQxDTtGrqQA9-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="328.95348837209303" y="130" />
-              <mxPoint x="57.2093023255814" y="130" />
+              <mxPoint x="345" y="130" />
+              <mxPoint x="60" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Vk5tKjFLAIekuIL0GwJ5-7" source="9-Tru1cQJQxDTtGrqQA9-86" target="9-Tru1cQJQxDTtGrqQA9-63" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="328.95348837209303" y="130" />
-              <mxPoint x="200.2325581395349" y="130" />
+              <mxPoint x="345" y="130" />
+              <mxPoint x="209.99999999999997" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Vk5tKjFLAIekuIL0GwJ5-7" source="9-Tru1cQJQxDTtGrqQA9-86" target="9-Tru1cQJQxDTtGrqQA9-65" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="328.95348837209303" y="130" />
-              <mxPoint x="352.7906976744186" y="130" />
+              <mxPoint x="345" y="130" />
+              <mxPoint x="370" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-86" value="&lt;span style=&quot;font-size: 10.5pt;&quot; lang=&quot;EN-US&quot;&gt;eHMI &lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;指令影响要素&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Vk5tKjFLAIekuIL0GwJ5-7" vertex="1">
-          <mxGeometry x="247.90697674418607" y="80" width="162.09302325581393" height="40" as="geometry" />
+          <mxGeometry x="260" y="80" width="169.99999999999997" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-87" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;色觉障碍人群的视觉感知机制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Vk5tKjFLAIekuIL0GwJ5-7" vertex="1">
-          <mxGeometry y="80" width="190.69767441860466" height="40" as="geometry" />
+          <mxGeometry y="80" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
