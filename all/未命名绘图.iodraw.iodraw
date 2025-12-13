@@ -70,6 +70,9 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-55" value="理&lt;div&gt;论&lt;/div&gt;&lt;div&gt;框&lt;/div&gt;&lt;div&gt;架&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="420" width="50" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="Vk5tKjFLAIekuIL0GwJ5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9-Tru1cQJQxDTtGrqQA9-1" target="9-Tru1cQJQxDTtGrqQA9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-1" value="研&lt;div&gt;究&lt;/div&gt;&lt;div&gt;概&lt;/div&gt;&lt;div&gt;述&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="80" width="50" height="310" as="geometry" />
         </mxCell>
@@ -263,6 +266,9 @@
         </mxCell>
         <mxCell id="Vk5tKjFLAIekuIL0GwJ5-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.7;dx=8.23;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="1010" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk5tKjFLAIekuIL0GwJ5-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.7;dx=8.23;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1020" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
