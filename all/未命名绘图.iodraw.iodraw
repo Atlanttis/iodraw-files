@@ -119,7 +119,7 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;准确率&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="9-Tru1cQJQxDTtGrqQA9-83" vertex="1">
           <mxGeometry x="327.1794871794872" width="112.82051282051282" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-45" value="眼动" style="rounded=0;whiteSpace=wrap;html=1;" parent="9-Tru1cQJQxDTtGrqQA9-83" vertex="1">
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;眼动&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="9-Tru1cQJQxDTtGrqQA9-83" vertex="1">
           <mxGeometry x="157.94871794871796" y="120" width="69.38461538461539" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-46" value="心率" style="rounded=0;whiteSpace=wrap;html=1;" parent="9-Tru1cQJQxDTtGrqQA9-83" vertex="1">
@@ -131,7 +131,7 @@
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-51" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;实验采集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="9-Tru1cQJQxDTtGrqQA9-83" vertex="1">
           <mxGeometry width="135.3846153846154" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-Tru1cQJQxDTtGrqQA9-59" value="生理数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="9-Tru1cQJQxDTtGrqQA9-83" vertex="1">
+        <mxCell id="9-Tru1cQJQxDTtGrqQA9-59" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;生理数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="9-Tru1cQJQxDTtGrqQA9-83" vertex="1">
           <mxGeometry y="120" width="135.3846153846154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9-Tru1cQJQxDTtGrqQA9-66" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.59;dx=12.47;notch=0;" parent="9-Tru1cQJQxDTtGrqQA9-83" vertex="1">
